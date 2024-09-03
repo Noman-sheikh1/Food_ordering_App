@@ -1,0 +1,31 @@
+{
+  "name": "food_ordering_app",
+  "version": "1.0.0",
+  "description": " project on food ordering app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noman-sheikh1/Food_ordering_App.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javaScript",
+    "react",
+    "and",
+    "noman",
+    "sheikh"
+  ],
+  "author": "Noman sheikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noman-sheikh1/Food_ordering_App/issues"
+  },
+  "homepage": "https://github.com/Noman-sheikh1/Food_ordering_App#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

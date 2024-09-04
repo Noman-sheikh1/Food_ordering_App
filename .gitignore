@@ -1,3 +1,4 @@
 /node_modules
 .parcel-cache
 /dist
+src/components/mock_data/Rest_mockdata.json
